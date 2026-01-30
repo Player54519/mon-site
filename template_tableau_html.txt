@@ -1,5 +1,0 @@
-<tr>
-    <td><a href="https://xxx.com/"></a></td>
-    <td></td>
-    <td></td>
-</tr>
